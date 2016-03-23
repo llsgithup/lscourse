@@ -1,5 +1,11 @@
 hello
 world
+dddd:
 
-
+<<<<<<< HEAD
 sssss
+=======
+
+hello world 2
+str
+>>>>>>> origin/master
